@@ -145,10 +145,3 @@ FROM emissions
 GROUP BY Country
 ORDER BY sum_value DESC --China, USA, India, Russia, and Japan. 
 
-
-
-
-
-
-
-
